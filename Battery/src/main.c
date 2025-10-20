@@ -1,9 +1,4 @@
-/*
- * HelloWorld.c
- *
- * Created: 9/9/2025 10:43:27 AM
- * Author : Alin
- */ 
+
 
 
 
@@ -12,7 +7,7 @@
 #include <util/delay.h>
 
 #include "usart.h"
-int display_numbers();
+
 int main(void) {  
 
     
@@ -24,7 +19,7 @@ int main(void) {
   while(1) {
 		
 	  printf("Hello World \n");
-	  
+	  _delay_ms(1000);
 
   }
   
