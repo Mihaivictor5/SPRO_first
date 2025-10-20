@@ -10,10 +10,9 @@ workspace
 !!!
     
 For uploading the code for testing:
-
--pio run -t upload -e pwm        # for 1_pwm/main.c
--pio run -t  upload -e battery    # for 2_battery/main.c
--pio run -t upload -e display    # for 3_Display/main.c
+- pio run -t upload -e pwm        # for 1_pwm/main.c
+- pio run -t  upload -e battery    # for 2_battery/main.c
+- -pio run -t upload -e display    # for 3_Display/main.c
 
 FOR RUNNING CODE USE:
 -pio run -e pwm        # for 1_pwm/main.c
