@@ -12,7 +12,7 @@
 #include <util/delay.h>
 
 #include "usart.h"
-
+int display_numbers();
 int main(void) {  
 
     

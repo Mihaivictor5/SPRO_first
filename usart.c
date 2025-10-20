@@ -58,3 +58,6 @@ int uart_getchar(FILE *stream) {
 	
 	return UDR0;
 }
+int display_numbers(){
+	
+}
