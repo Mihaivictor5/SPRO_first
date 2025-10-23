@@ -1,11 +1,11 @@
 |This is the file on the information for the whole github repository for Mechatronics semester peroject 1 |
 
-The repository is split into the :
-workspace
-    - 1_pwm(pulse wave modulator code)
-    - 2_battery(code ffor the battery)
-    - 3_display(code for the diplay)
-    - include:-usart.h(defining all of the functins)
+The repository is split into the 
+workspace:
+- 1_pwm(pulse wave modulator code)
+- 2_battery(code ffor the battery)
+- 3_display(code for the diplay)
+- include:-usart.h(defining all of the functins)
 
 !!!
     
